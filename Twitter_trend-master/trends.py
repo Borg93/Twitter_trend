@@ -8,10 +8,10 @@ from unidecode import unidecode
 import time
 
 
-ckey= "IRiV8dkL7IgUfY0rezhFzAm4z"
-csecret= "G18coYRM0coPjpyaDoPFQK3b5CupddWbNkOh1mEW4WNNUuR0nb"
-atoken= "1159820778612908033-eugPtvN3MKzl4sn0DmGTWvUjbYWFmG"
-asecret= "WvBykSpXIQ5Rv1dxrUtGhKrXAnhQQ1sIvZ3nChme2XSRP"
+ckey= ""
+csecret= ""
+atoken= ""
+asecret= ""
 
 analyzer = SentimentIntensityAnalyzer()
 
